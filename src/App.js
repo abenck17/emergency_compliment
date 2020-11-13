@@ -42,7 +42,8 @@ const data = [
   "Your cooking reminds me of my mother's.",
   "You're tremendous!",
   "You deserve a compliment!",
-  "Hello, good looking."
+  "Hello, good looking.",
+  "Oooo, You cooking with oil?"
 ];
 
 function App() {
